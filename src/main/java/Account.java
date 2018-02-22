@@ -1,10 +1,3 @@
-/**
- * 练习一：
- * 为Account类编写单元测试，要求使用Given-When-Then三段式的结构和命名法。
- * 提取公共部分到SetUp函数中。学习使用assertXXX系列断言。
- * 用IntelliJ来运行测试用例，并计算测试覆盖率。
- */
-
 public class Account {
 
     private final boolean isDebit;
